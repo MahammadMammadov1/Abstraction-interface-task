@@ -1,0 +1,14 @@
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\Home Task.exe
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\Home Task.deps.json
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\Home Task.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\Home Task.dll
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\bin\Debug\net6.0\Home Task.pdb
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Home Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Home Task.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Home Task.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Home Task.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Home Task.dll
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\refint\Home Task.dll
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Home Task.pdb
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\Home Task.genruntimeconfig.cache
+C:\Users\Mehemmed\Desktop\BP206task\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ref\Home Task.dll
